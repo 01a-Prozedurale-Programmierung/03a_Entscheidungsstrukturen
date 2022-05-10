@@ -30,4 +30,15 @@ if (ageJohn > ageMark)
     console.log("John ist älter.");
 }
 
+/************ IF - ELSE  ************/
+// mit Alternative  
+// entweder ja oder nein
 
+if (isJohnOlder) 
+{   // Ja-Zweig (branch)    
+    console.log("John ist älter.");
+} 
+    else 
+{   // Nein-Zweig (Alternative)
+    console.log("John ist jünger.");
+}
